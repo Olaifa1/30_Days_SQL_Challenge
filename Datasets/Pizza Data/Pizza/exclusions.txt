@@ -1,0 +1,6 @@
+customer_id	exclusions
+103	4
+103	4
+103	4
+103	4
+104	6

@@ -1,0 +1,5 @@
+customer_id	extras_ingredient_id
+104	1
+105	1
+103	5
+104	4

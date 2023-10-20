@@ -1,0 +1,15 @@
+topping_id	topping_name	pizza_id
+1	Bacon	1
+2	BBQ Sauce	1
+4	Cheese	2
+4	Cheese	1
+3	Beef	1
+6	Mushrooms	2
+6	Mushrooms	1
+5	Chicken	1
+7	Onions	2
+8	Pepperoni	1
+9	Peppers	2
+11	Tomatoes	2
+12	Tomato Sauce	2
+10	Salami	1
