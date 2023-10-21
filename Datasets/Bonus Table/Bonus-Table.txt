@@ -1,0 +1,11 @@
+Id 	Review 	translation 
+1	Good	
+2	dhgyhs	Not Clear 
+3	Good	
+4	Excellent 	
+5	jhudww	Unknown 
+6	Bad	
+7	Fair	
+8	Excellent 	
+9	uhfyee	Unknown 
+10	Good	
