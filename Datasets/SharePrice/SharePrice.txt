@@ -1,0 +1,11 @@
+date	ticker	company	open_price	close_price
+6/1/2021	MPSP	Mephistopheles Solutions Inc.	315.49	330.28
+6/2/2021	MPSP	Mephistopheles Solutions Inc.	328.49	338.22
+6/3/2021	MPSP	Mephistopheles Solutions Inc.	335	336.12
+6/4/2021	MPSP	Mephistopheles Solutions Inc.	329.74	328.13
+6/5/2021	MPSP	Mephistopheles Solutions Inc.	328.56	313.13
+6/6/2021	MPSP	Mephistopheles Solutions Inc.	309.22	340.28
+6/7/2021	MPSP	Mephistopheles Solutions Inc.	339.99	324.45
+6/8/2021	MPSP	Mephistopheles Solutions Inc.	350.48	315.22
+6/9/2021	MPSP	Mephistopheles Solutions Inc.	325.96	331.69
+6/10/2021	MPSP	Mephistopheles Solutions Inc.	341.21	342.65
